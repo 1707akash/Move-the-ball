@@ -1,0 +1,13 @@
+body{
+    height: 90vh;
+    background: linear-gradient(90deg, rgb(115, 207, 235), white,rgb(115, 207, 235));
+    margin: 0;
+    padding: 0;
+}
+.circle{
+    background: radial-gradient(circle at 100px 100px, #4215c7, #000);
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    transition: all 0.3s;
+}
